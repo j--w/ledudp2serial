@@ -2,8 +2,10 @@
 Simple node udp server to pass udp data to serial on arduino.
 
 
-Install nodejs
+Install [nodejs](https://nodejs.org/en/)
 In terminal:
+
+
 ```
 npm install
 sudo node index.js
